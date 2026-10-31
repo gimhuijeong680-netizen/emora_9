@@ -1,0 +1,38 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="935" height="559" viewBox="0 0 935 559" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Frame 2147238183" clip-path="url(#clip0_0_147)">
+<rect width="935" height="559" fill="white"/>
+<rect id="Rectangle 346602315" width="935" height="653" fill="#F9F9F9"/>
+<path id="Line 58" d="M837.249 -84.5696L121.459 631.22" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 60" d="M825.085 630.558L109.295 -85.2317" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 61" d="M838.186 617.459L122.397 -98.3308" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 62" d="M785.788 618.394L69.9983 -97.3953" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 63" d="M69.3372 656.757L785.127 -59.0325" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 64" d="M121.732 657.693L837.521 -58.0969" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Ellipse 2038" d="M613.761 279.076C613.761 356.331 551.133 418.959 473.878 418.959C396.623 418.959 333.995 356.331 333.995 279.076C333.995 201.821 396.623 139.193 473.878 139.193C551.133 139.193 613.761 201.821 613.761 279.076Z" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 39" d="M-12 138.89L947 138.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 69" d="M-12 204.89L947 204.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 71" d="M-12 377.89L947 377.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 70" d="M-12 176.89L947 176.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 72" d="M-12 349.89L947 349.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 40" d="M-12 418.89L947 418.89" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 43" d="M613.761 -89.5792L613.761 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 65" d="M576.335 -89.5792L576.335 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 67" d="M398.554 -89.5792L398.554 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 66" d="M549.198 -89.5792L549.198 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 68" d="M371.421 -89.5792L371.421 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<path id="Line 59" d="M333.995 -89.5792L333.995 637.438" stroke-width="0.935673" stroke="#D9D9D9"/>
+<g id="Exclude">
+<use xlink:href="#stroke0_0_147" fill="#9E9E9E" fill-opacity="0.4"/>
+<mask id="stroke1_0_147" fill="white">
+<use xlink:href="#stroke0_0_147"/>
+</mask>
+<path d="M409.85 165.247C445.212 129.885 502.545 129.885 537.907 165.247L587.708 215.046C623.07 250.409 623.07 307.742 587.708 343.105L537.907 392.905C502.545 428.267 445.212 428.267 409.85 392.905L360.049 343.105C324.687 307.742 324.687 250.409 360.049 215.046L409.85 165.247ZM474.103 158.342C407.423 158.342 353.369 212.397 353.369 279.076C353.369 345.756 407.423 399.811 474.103 399.811C540.782 399.811 594.837 345.756 594.837 279.076C594.837 212.397 540.782 158.342 474.103 158.342Z" stroke-width="1.87135" stroke="#8F8F8F" mask="url(#stroke1_0_147)"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_147">
+<rect width="935" height="559" fill="white"/>
+</clipPath>
+<path id="stroke0_0_147" d="M409.85 165.247C445.212 129.885 502.545 129.885 537.907 165.247L587.708 215.046C623.07 250.409 623.069 307.742 587.708 343.105L537.907 392.905C502.545 428.267 445.212 428.267 409.85 392.905L360.049 343.105C324.687 307.742 324.687 250.409 360.049 215.046L409.85 165.247ZM474.103 158.342C407.423 158.342 353.369 212.397 353.369 279.076C353.369 345.756 407.423 399.811 474.103 399.811C540.782 399.811 594.837 345.756 594.837 279.076C594.837 212.397 540.782 158.342 474.103 158.342Z"/>
+</defs>
+</svg>
